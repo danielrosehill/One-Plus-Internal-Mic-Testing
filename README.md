@@ -62,15 +62,20 @@ Moving off-axis (45° or more) drops signal by ~4 dB and shifts spectral content
 
 See [device-specs.md](device-specs.md) for full device specifications.
 
-## Video
+## Media Downloads
 
-A 9-minute analysis video with real-time stereo field visualization (Lissajous), L/R level meters, segment labels, and subtitles can be generated from the source audio:
+| File | Size | Link |
+|------|------|------|
+| Analysis video (MP4) | 52 MB | [oneplus_mic_test.mp4](https://cdn-2.danielrosehill.com/oneplus-mic-test/oneplus_mic_test.mp4) |
+| Full recording (WAV) | 99 MB | [One Plus audio Testing.wav](https://cdn-2.danielrosehill.com/oneplus-mic-test/One%20Plus%20audio%20Testing.wav) |
+
+The video includes real-time stereo field visualization (Lissajous), L/R level meters, segment labels, and subtitles overlaid on the original audio.
+
+To regenerate the video locally:
 
 ```bash
 python3 generate_video.py
 ```
-
-Output: `oneplus_mic_test.mp4` (1920x1080, 30fps, ~52 MB)
 
 ## Repository Contents
 
