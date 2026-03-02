@@ -66,6 +66,7 @@ See [device-specs.md](device-specs.md) for full device specifications.
 
 | File | Size | Link |
 |------|------|------|
+| Full report (PDF) | 755 KB | [report.pdf](https://cdn-2.danielrosehill.com/oneplus-mic-test/report.pdf) |
 | Analysis video (MP4) | 52 MB | [oneplus_mic_test.mp4](https://cdn-2.danielrosehill.com/oneplus-mic-test/oneplus_mic_test.mp4) |
 | Full recording (WAV) | 99 MB | [One Plus audio Testing.wav](https://cdn-2.danielrosehill.com/oneplus-mic-test/One%20Plus%20audio%20Testing.wav) |
 
