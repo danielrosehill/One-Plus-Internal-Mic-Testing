@@ -1,0 +1,14 @@
+{
+  "filename": "03_bottom_mic_10cm.wav",
+  "segment_number": 3,
+  "title": "Bottom Microphone Address (~10cm)",
+  "address_pattern": "Bottom microphone (primary, near USB-C)",
+  "distance_cm": 10,
+  "start_time": 168.0,
+  "end_time": 193.0,
+  "duration_seconds": 25.0,
+  "description": "Directing voice at the primary microphone at the bottom of the phone, next to the USB Type-C port, from about 10cm.",
+  "transcript": "And I'm going to switch to my previous assumption and that is what I'm doing now. So I've just moved the. I moved my mouth. My mouth is about 10 centimeters from the device, but I'm directing my voice now instead of at the LCD screen. I'm speaking directly into the microphone at the bottom of the screen, just next to the USB type C port, which is the primary microphone on this device.",
+  "case_on": false,
+  "mount": null
+}

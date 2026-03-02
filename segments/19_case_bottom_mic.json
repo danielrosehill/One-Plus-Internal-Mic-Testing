@@ -1,0 +1,14 @@
+{
+  "filename": "19_case_bottom_mic.wav",
+  "segment_number": 19,
+  "title": "With Case \u2014 Bottom Mic Address (Pattern 2)",
+  "address_pattern": "Bottom microphone (primary, near USB-C)",
+  "distance_cm": 10,
+  "start_time": 432.0,
+  "end_time": 445.0,
+  "duration_seconds": 13.0,
+  "description": "With case on \u2014 repeating address pattern 2, speaking directly at the bottom microphone.",
+  "transcript": "Addressing directly the bottom of the phone. Now I'm going to try just a couple more experiments with long, long sensitivity about 10 centimeters from the handset. In fact, for this test I'll put it into the. Into the case again or into the into.",
+  "case_on": true,
+  "mount": null
+}

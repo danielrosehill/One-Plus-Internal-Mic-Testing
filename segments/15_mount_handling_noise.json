@@ -1,0 +1,14 @@
+{
+  "filename": "15_mount_handling_noise.wav",
+  "segment_number": 15,
+  "title": "Phone on Mount \u2014 Transferred Handling Noise",
+  "address_pattern": null,
+  "distance_cm": null,
+  "start_time": 314.0,
+  "end_time": 356.0,
+  "duration_seconds": 42.0,
+  "description": "Phone placed in a mount (used as a microphone stand). Testing how well the phone rejects handling noise transferred through the mount. Shaking the mount to test vibration transfer.",
+  "transcript": "Okay, now what I'm going to do is take the phone, the OnePlus, and I'm going to pop it into the amount that I have, which I'm experimenting with as a sort of microphone stand. It's clipped in now and I'm going to, instead of handling the phone, I'm going to handle the mount it's on in order to see how well it rejects transferred Handling noise. So we can see a little bit. If I really shake it, the vibrations are transferring into the case, but pretty good rejection overall.",
+  "case_on": false,
+  "mount": "Generic mount (used as mic stand)"
+}

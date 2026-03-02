@@ -1,0 +1,14 @@
+{
+  "filename": "16_noise_floor.wav",
+  "segment_number": 16,
+  "title": "Room Noise Floor Profile",
+  "address_pattern": null,
+  "distance_cm": null,
+  "start_time": 356.0,
+  "end_time": 381.0,
+  "duration_seconds": 25.0,
+  "description": "Capturing the ambient room noise floor. Untreated room with background sounds (soda opening, fridge hum). Brief commentary followed by silence to capture the noise floor.",
+  "transcript": "Here is what the noise floor profile sounds like. Recording this in an untreated room, average apartment and you're going to hear some background noises like someone opening some soda, pouring some soda, a fridge in the background. So fairly, fairly good, fairly clean noise floor.",
+  "case_on": false,
+  "mount": null
+}

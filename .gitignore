@@ -1,0 +1,9 @@
+# Full recording — too large for GitHub (103MB, >100MB limit)
+# Regenerate segments with split_segments.py, or extract audio from the video
+One Plus audio Testing.wav
+
+# Generated video — regenerate with: python3 generate_video.py
+oneplus_mic_test.mp4
+
+# Claude Code internals
+.claude/

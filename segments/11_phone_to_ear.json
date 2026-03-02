@@ -1,0 +1,14 @@
+{
+  "filename": "11_phone_to_ear.wav",
+  "segment_number": 11,
+  "title": "Phone Held to Ear (Pattern 4)",
+  "address_pattern": "Phone to ear \u2014 speaking away from mic",
+  "distance_cm": null,
+  "start_time": 245.0,
+  "end_time": 278.0,
+  "duration_seconds": 33.0,
+  "description": "Phone held to ear as if making a call. Speaking away from the microphone, voice directed naturally forward/toward the wall.",
+  "transcript": "What I'm going to do now is put the phone up to my ear as if I were using it conventionally as a, as a phone. And the pickup is going to be, instead of me speaking towards the microphone, I'm going to be speaking away from the microphone with a tremor. Okay, so this is pickup pattern four. I'm speaking away from the phone as if I was taking a call, holding it up to my ear physically and targeting. Well, I guess when you, when you speak on the phone, you don't tend to think where your voice is going, just speaking naturally kind of to the wall.",
+  "case_on": false,
+  "mount": null
+}

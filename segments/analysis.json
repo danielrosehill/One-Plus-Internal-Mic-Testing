@@ -1,0 +1,480 @@
+{
+  "segments": {
+    "1": {
+      "rms_dbfs": -26.81,
+      "peak_dbfs": -4.44,
+      "crest_factor_db": 22.38,
+      "dynamic_range_db": 48.19,
+      "snr_db": 23.99,
+      "spectral_centroid_hz": 553.7,
+      "spectral_rolloff_hz": 585.9,
+      "zero_crossing_rate": 0.0651,
+      "speech_ratio_pct": 70.0,
+      "name": "Intro"
+    },
+    "2": {
+      "rms_dbfs": -25.96,
+      "peak_dbfs": -5.65,
+      "crest_factor_db": 20.32,
+      "dynamic_range_db": 43.13,
+      "snr_db": 20.56,
+      "spectral_centroid_hz": 529.9,
+      "spectral_rolloff_hz": 574.2,
+      "zero_crossing_rate": 0.0623,
+      "speech_ratio_pct": 69.9,
+      "name": "Center/LCD 10cm"
+    },
+    "3": {
+      "rms_dbfs": -26.5,
+      "peak_dbfs": -5.71,
+      "crest_factor_db": 20.79,
+      "dynamic_range_db": 45.44,
+      "snr_db": 21.38,
+      "spectral_centroid_hz": 725.6,
+      "spectral_rolloff_hz": 679.7,
+      "zero_crossing_rate": 0.082,
+      "speech_ratio_pct": 70.0,
+      "name": "Bottom Mic 10cm"
+    },
+    "4": {
+      "rms_dbfs": -25.14,
+      "peak_dbfs": -7.02,
+      "crest_factor_db": 18.12,
+      "dynamic_range_db": 50.2,
+      "snr_db": 21.51,
+      "spectral_centroid_hz": 821.6,
+      "spectral_rolloff_hz": 1582.0,
+      "zero_crossing_rate": 0.0758,
+      "speech_ratio_pct": 70.0,
+      "name": "Top Mic"
+    },
+    "5": {
+      "rms_dbfs": -25.67,
+      "peak_dbfs": -3.8,
+      "crest_factor_db": 21.87,
+      "dynamic_range_db": 50.36,
+      "snr_db": 22.66,
+      "spectral_centroid_hz": 656.3,
+      "spectral_rolloff_hz": 1066.4,
+      "zero_crossing_rate": 0.0709,
+      "speech_ratio_pct": 69.9,
+      "name": "Proximity 10-15cm"
+    },
+    "6": {
+      "rms_dbfs": -22.09,
+      "peak_dbfs": -1.61,
+      "crest_factor_db": 20.48,
+      "dynamic_range_db": 52.46,
+      "snr_db": 19.34,
+      "spectral_centroid_hz": 573.2,
+      "spectral_rolloff_hz": 668.0,
+      "zero_crossing_rate": 0.0605,
+      "speech_ratio_pct": 69.8,
+      "name": "Proximity 3cm"
+    },
+    "7": {
+      "rms_dbfs": -27.32,
+      "peak_dbfs": -8.1,
+      "crest_factor_db": 19.22,
+      "dynamic_range_db": 42.0,
+      "snr_db": 23.71,
+      "spectral_centroid_hz": 587.8,
+      "spectral_rolloff_hz": 550.8,
+      "zero_crossing_rate": 0.0661,
+      "speech_ratio_pct": 70.0,
+      "name": "Proximity touching"
+    },
+    "8": {
+      "rms_dbfs": -27.23,
+      "peak_dbfs": -4.42,
+      "crest_factor_db": 22.8,
+      "dynamic_range_db": 36.8,
+      "snr_db": 18.41,
+      "spectral_centroid_hz": 801.0,
+      "spectral_rolloff_hz": 1546.9,
+      "zero_crossing_rate": 0.0626,
+      "speech_ratio_pct": 69.8,
+      "name": "Proximity 30cm"
+    },
+    "9": {
+      "rms_dbfs": -31.58,
+      "peak_dbfs": -13.93,
+      "crest_factor_db": 17.65,
+      "dynamic_range_db": 21.08,
+      "snr_db": 12.89,
+      "spectral_centroid_hz": 619.6,
+      "spectral_rolloff_hz": 632.8,
+      "zero_crossing_rate": 0.0791,
+      "speech_ratio_pct": 70.0,
+      "name": "Bottom Mic recap"
+    },
+    "10": {
+      "rms_dbfs": -27.79,
+      "peak_dbfs": -6.11,
+      "crest_factor_db": 21.68,
+      "dynamic_range_db": 45.72,
+      "snr_db": 28.63,
+      "spectral_centroid_hz": 761.4,
+      "spectral_rolloff_hz": 1839.8,
+      "zero_crossing_rate": 0.0855,
+      "speech_ratio_pct": 70.0,
+      "name": "Top Mic recap"
+    },
+    "11": {
+      "rms_dbfs": -24.06,
+      "peak_dbfs": -4.73,
+      "crest_factor_db": 19.33,
+      "dynamic_range_db": 52.69,
+      "snr_db": 27.21,
+      "spectral_centroid_hz": 559.1,
+      "spectral_rolloff_hz": 597.7,
+      "zero_crossing_rate": 0.062,
+      "speech_ratio_pct": 69.9,
+      "name": "Phone to Ear"
+    },
+    "12": {
+      "rms_dbfs": -22.6,
+      "peak_dbfs": -4.58,
+      "crest_factor_db": 18.02,
+      "dynamic_range_db": 38.95,
+      "snr_db": 20.11,
+      "spectral_centroid_hz": 571.6,
+      "spectral_rolloff_hz": 597.7,
+      "zero_crossing_rate": 0.0674,
+      "speech_ratio_pct": 69.4,
+      "name": "Phone to Ear downward"
+    },
+    "13": {
+      "rms_dbfs": -26.7,
+      "peak_dbfs": -4.34,
+      "crest_factor_db": 22.36,
+      "dynamic_range_db": 43.31,
+      "snr_db": 19.81,
+      "spectral_centroid_hz": 575.3,
+      "spectral_rolloff_hz": 703.1,
+      "zero_crossing_rate": 0.0527,
+      "speech_ratio_pct": 69.7,
+      "name": "Return to Center"
+    },
+    "14": {
+      "rms_dbfs": -26.26,
+      "peak_dbfs": -3.58,
+      "crest_factor_db": 22.68,
+      "dynamic_range_db": 46.76,
+      "snr_db": 27.09,
+      "spectral_centroid_hz": 1373.2,
+      "spectral_rolloff_hz": 2308.6,
+      "zero_crossing_rate": 0.1423,
+      "speech_ratio_pct": 69.9,
+      "name": "Handling noise"
+    },
+    "15": {
+      "rms_dbfs": -26.86,
+      "peak_dbfs": -3.66,
+      "crest_factor_db": 23.2,
+      "dynamic_range_db": 46.46,
+      "snr_db": 31.86,
+      "spectral_centroid_hz": 622.1,
+      "spectral_rolloff_hz": 691.4,
+      "zero_crossing_rate": 0.1311,
+      "speech_ratio_pct": 70.0,
+      "name": "Mount handling noise"
+    },
+    "16": {
+      "rms_dbfs": -27.26,
+      "peak_dbfs": -4.34,
+      "crest_factor_db": 22.91,
+      "dynamic_range_db": 49.05,
+      "snr_db": 37.74,
+      "spectral_centroid_hz": 1310.4,
+      "spectral_rolloff_hz": 1593.8,
+      "zero_crossing_rate": 0.0907,
+      "speech_ratio_pct": 70.0,
+      "name": "Noise floor"
+    },
+    "17": {
+      "rms_dbfs": -23.89,
+      "peak_dbfs": -1.43,
+      "crest_factor_db": 22.46,
+      "dynamic_range_db": 40.19,
+      "snr_db": 22.79,
+      "spectral_centroid_hz": 770.6,
+      "spectral_rolloff_hz": 925.8,
+      "zero_crossing_rate": 0.0815,
+      "speech_ratio_pct": 70.0,
+      "name": "Case description"
+    },
+    "18": {
+      "rms_dbfs": -25.78,
+      "peak_dbfs": -3.6,
+      "crest_factor_db": 22.18,
+      "dynamic_range_db": 44.57,
+      "snr_db": 28.06,
+      "spectral_centroid_hz": 682.5,
+      "spectral_rolloff_hz": 843.8,
+      "zero_crossing_rate": 0.0715,
+      "speech_ratio_pct": 70.0,
+      "name": "Case Center/LCD"
+    },
+    "19": {
+      "rms_dbfs": -25.92,
+      "peak_dbfs": -5.2,
+      "crest_factor_db": 20.72,
+      "dynamic_range_db": 44.79,
+      "snr_db": 27.61,
+      "spectral_centroid_hz": 862.4,
+      "spectral_rolloff_hz": 1640.6,
+      "zero_crossing_rate": 0.0907,
+      "speech_ratio_pct": 69.9,
+      "name": "Case Bottom Mic"
+    },
+    "20": {
+      "rms_dbfs": -27.44,
+      "peak_dbfs": -5.44,
+      "crest_factor_db": 22.0,
+      "dynamic_range_db": 43.31,
+      "snr_db": 26.61,
+      "spectral_centroid_hz": 990.4,
+      "spectral_rolloff_hz": 1816.4,
+      "zero_crossing_rate": 0.0874,
+      "speech_ratio_pct": 69.9,
+      "name": "Ulanzi Stand Bottom Mic"
+    },
+    "21": {
+      "rms_dbfs": -25.65,
+      "peak_dbfs": -5.88,
+      "crest_factor_db": 19.76,
+      "dynamic_range_db": 38.58,
+      "snr_db": 17.21,
+      "spectral_centroid_hz": 691.4,
+      "spectral_rolloff_hz": 796.9,
+      "zero_crossing_rate": 0.0748,
+      "speech_ratio_pct": 69.9,
+      "name": "Ulanzi Stand Center/LCD"
+    },
+    "22": {
+      "rms_dbfs": -30.12,
+      "peak_dbfs": -7.55,
+      "crest_factor_db": 22.57,
+      "dynamic_range_db": 41.03,
+      "snr_db": 22.29,
+      "spectral_centroid_hz": 609.6,
+      "spectral_rolloff_hz": 738.3,
+      "zero_crossing_rate": 0.0629,
+      "speech_ratio_pct": 70.0,
+      "name": "360\u00b0 walk"
+    },
+    "23": {
+      "rms_dbfs": -29.97,
+      "peak_dbfs": -6.27,
+      "crest_factor_db": 23.7,
+      "dynamic_range_db": 40.51,
+      "snr_db": 22.82,
+      "spectral_centroid_hz": 649.9,
+      "spectral_rolloff_hz": 738.3,
+      "zero_crossing_rate": 0.0829,
+      "speech_ratio_pct": 69.6,
+      "name": "Off-axis 45\u00b0 left"
+    },
+    "24": {
+      "rms_dbfs": -30.36,
+      "peak_dbfs": -10.52,
+      "crest_factor_db": 19.84,
+      "dynamic_range_db": 41.37,
+      "snr_db": 20.49,
+      "spectral_centroid_hz": 711.5,
+      "spectral_rolloff_hz": 1054.7,
+      "zero_crossing_rate": 0.067,
+      "speech_ratio_pct": 70.0,
+      "name": "Off-axis 45\u00b0 right"
+    }
+  },
+  "group_averages": {
+    "address_pattern": {
+      "Center/LCD": {
+        "rms_dbfs": -26.11,
+        "peak_dbfs": -4.6,
+        "crest_factor_db": 21.52,
+        "dynamic_range_db": 45.6,
+        "snr_db": 21.01,
+        "spectral_centroid_hz": 587.17,
+        "spectral_rolloff_hz": 781.23,
+        "zero_crossing_rate": 0.06,
+        "speech_ratio_pct": 69.83
+      },
+      "Bottom Mic": {
+        "rms_dbfs": -29.04,
+        "peak_dbfs": -9.82,
+        "crest_factor_db": 19.22,
+        "dynamic_range_db": 33.26,
+        "snr_db": 17.13,
+        "spectral_centroid_hz": 672.6,
+        "spectral_rolloff_hz": 656.25,
+        "zero_crossing_rate": 0.08,
+        "speech_ratio_pct": 70.0
+      },
+      "Top Mic": {
+        "rms_dbfs": -26.46,
+        "peak_dbfs": -6.56,
+        "crest_factor_db": 19.9,
+        "dynamic_range_db": 47.96,
+        "snr_db": 25.07,
+        "spectral_centroid_hz": 791.5,
+        "spectral_rolloff_hz": 1710.9,
+        "zero_crossing_rate": 0.08,
+        "speech_ratio_pct": 70.0
+      },
+      "Phone-to-Ear": {
+        "rms_dbfs": -23.33,
+        "peak_dbfs": -4.66,
+        "crest_factor_db": 18.67,
+        "dynamic_range_db": 45.82,
+        "snr_db": 23.66,
+        "spectral_centroid_hz": 565.35,
+        "spectral_rolloff_hz": 597.7,
+        "zero_crossing_rate": 0.06,
+        "speech_ratio_pct": 69.65
+      }
+    },
+    "proximity": {
+      "0.5": {
+        "rms_dbfs": -27.32,
+        "peak_dbfs": -8.1,
+        "crest_factor_db": 19.22,
+        "dynamic_range_db": 42.0,
+        "snr_db": 23.71,
+        "spectral_centroid_hz": 587.8,
+        "spectral_rolloff_hz": 550.8,
+        "zero_crossing_rate": 0.07,
+        "speech_ratio_pct": 70.0
+      },
+      "3": {
+        "rms_dbfs": -22.09,
+        "peak_dbfs": -1.61,
+        "crest_factor_db": 20.48,
+        "dynamic_range_db": 52.46,
+        "snr_db": 19.34,
+        "spectral_centroid_hz": 573.2,
+        "spectral_rolloff_hz": 668.0,
+        "zero_crossing_rate": 0.06,
+        "speech_ratio_pct": 69.8
+      },
+      "12": {
+        "rms_dbfs": -25.67,
+        "peak_dbfs": -3.8,
+        "crest_factor_db": 21.87,
+        "dynamic_range_db": 50.36,
+        "snr_db": 22.66,
+        "spectral_centroid_hz": 656.3,
+        "spectral_rolloff_hz": 1066.4,
+        "zero_crossing_rate": 0.07,
+        "speech_ratio_pct": 69.9
+      },
+      "30": {
+        "rms_dbfs": -27.23,
+        "peak_dbfs": -4.42,
+        "crest_factor_db": 22.8,
+        "dynamic_range_db": 36.8,
+        "snr_db": 18.41,
+        "spectral_centroid_hz": 801.0,
+        "spectral_rolloff_hz": 1546.9,
+        "zero_crossing_rate": 0.06,
+        "speech_ratio_pct": 69.8
+      }
+    },
+    "case_effect": {
+      "No case": {
+        "rms_dbfs": -26.23,
+        "peak_dbfs": -5.68,
+        "crest_factor_db": 20.56,
+        "dynamic_range_db": 44.28,
+        "snr_db": 20.97,
+        "spectral_centroid_hz": 627.75,
+        "spectral_rolloff_hz": 626.95,
+        "zero_crossing_rate": 0.07,
+        "speech_ratio_pct": 69.95
+      },
+      "With case": {
+        "rms_dbfs": -25.85,
+        "peak_dbfs": -4.4,
+        "crest_factor_db": 21.45,
+        "dynamic_range_db": 44.68,
+        "snr_db": 27.84,
+        "spectral_centroid_hz": 772.45,
+        "spectral_rolloff_hz": 1242.2,
+        "zero_crossing_rate": 0.08,
+        "speech_ratio_pct": 69.95
+      }
+    },
+    "mount_vs_handheld": {
+      "Ulanzi stand": {
+        "rms_dbfs": -26.54,
+        "peak_dbfs": -5.66,
+        "crest_factor_db": 20.88,
+        "dynamic_range_db": 40.94,
+        "snr_db": 21.91,
+        "spectral_centroid_hz": 840.9,
+        "spectral_rolloff_hz": 1306.65,
+        "zero_crossing_rate": 0.08,
+        "speech_ratio_pct": 69.9
+      },
+      "Handheld+case": {
+        "rms_dbfs": -25.85,
+        "peak_dbfs": -4.4,
+        "crest_factor_db": 21.45,
+        "dynamic_range_db": 44.68,
+        "snr_db": 27.84,
+        "spectral_centroid_hz": 772.45,
+        "spectral_rolloff_hz": 1242.2,
+        "zero_crossing_rate": 0.08,
+        "speech_ratio_pct": 69.95
+      }
+    },
+    "off_axis": {
+      "On-axis (stand)": {
+        "rms_dbfs": -25.65,
+        "peak_dbfs": -5.88,
+        "crest_factor_db": 19.76,
+        "dynamic_range_db": 38.58,
+        "snr_db": 17.21,
+        "spectral_centroid_hz": 691.4,
+        "spectral_rolloff_hz": 796.9,
+        "zero_crossing_rate": 0.07,
+        "speech_ratio_pct": 69.9
+      },
+      "360\u00b0 walk": {
+        "rms_dbfs": -30.12,
+        "peak_dbfs": -7.55,
+        "crest_factor_db": 22.57,
+        "dynamic_range_db": 41.03,
+        "snr_db": 22.29,
+        "spectral_centroid_hz": 609.6,
+        "spectral_rolloff_hz": 738.3,
+        "zero_crossing_rate": 0.06,
+        "speech_ratio_pct": 70.0
+      },
+      "45\u00b0 left": {
+        "rms_dbfs": -29.97,
+        "peak_dbfs": -6.27,
+        "crest_factor_db": 23.7,
+        "dynamic_range_db": 40.51,
+        "snr_db": 22.82,
+        "spectral_centroid_hz": 649.9,
+        "spectral_rolloff_hz": 738.3,
+        "zero_crossing_rate": 0.08,
+        "speech_ratio_pct": 69.6
+      },
+      "45\u00b0 right": {
+        "rms_dbfs": -30.36,
+        "peak_dbfs": -10.52,
+        "crest_factor_db": 19.84,
+        "dynamic_range_db": 41.37,
+        "snr_db": 20.49,
+        "spectral_centroid_hz": 711.5,
+        "spectral_rolloff_hz": 1054.7,
+        "zero_crossing_rate": 0.07,
+        "speech_ratio_pct": 70.0
+      }
+    }
+  }
+}

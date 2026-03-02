@@ -1,0 +1,14 @@
+{
+  "filename": "07_proximity_touching.wav",
+  "segment_number": 7,
+  "title": "Proximity Test \u2014 Almost Touching",
+  "address_pattern": "Center/LCD screen",
+  "distance_cm": 0.5,
+  "start_time": 225.0,
+  "end_time": 227.0,
+  "duration_seconds": 2.0,
+  "description": "Almost touching the screen \u2014 closest possible proximity test.",
+  "transcript": "This is about as close as I can come.",
+  "case_on": false,
+  "mount": null
+}

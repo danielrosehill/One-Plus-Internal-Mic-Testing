@@ -1,0 +1,14 @@
+{
+  "filename": "20_ulanzi_stand_bottom_mic.wav",
+  "segment_number": 20,
+  "title": "On Ulanzi Stand \u2014 Bottom Mic Address",
+  "address_pattern": "Bottom microphone (primary, near USB-C)",
+  "distance_cm": 10,
+  "start_time": 454.0,
+  "end_time": 475.0,
+  "duration_seconds": 21.0,
+  "description": "Phone placed on Ulanzi selfie stick / stand at full extension (~2m). Addressing the bottom microphone.",
+  "transcript": "Okay, now the OnePlus is in the. It's a stand from Ulanzi that's I think kind of intended as a selfie stick. It's about 2 meters. It's at its full extension, which is actually pretty nice use for this, this gadget. So I'm addressing the bottom of the microphone in the, in its while it's up here.",
+  "case_on": true,
+  "mount": "Ulanzi selfie stick/stand (~2m full extension)"
+}

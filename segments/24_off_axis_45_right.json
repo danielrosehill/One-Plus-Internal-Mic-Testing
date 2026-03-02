@@ -1,0 +1,14 @@
+{
+  "filename": "24_off_axis_45_right.wav",
+  "segment_number": 24,
+  "title": "45\u00b0 Off-Axis Right",
+  "address_pattern": "45\u00b0 off-axis right",
+  "distance_cm": null,
+  "start_time": 530.0,
+  "end_time": 539.0,
+  "duration_seconds": 9.0,
+  "description": "Subtle off-axis test \u2014 speaking from 45 degrees to the right of center.",
+  "transcript": "And 45 degrees to the. Coming at it from the other side. Addressing the phone this way and seeing exactly how that does for the audio quality.",
+  "case_on": true,
+  "mount": "Ulanzi selfie stick/stand (~2m full extension)"
+}

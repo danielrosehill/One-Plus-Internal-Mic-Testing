@@ -1,0 +1,14 @@
+{
+  "filename": "05_proximity_10-15cm.wav",
+  "segment_number": 5,
+  "title": "Proximity Test \u2014 10\u201315cm",
+  "address_pattern": "Center/LCD screen",
+  "distance_cm": 12,
+  "start_time": 204.0,
+  "end_time": 218.0,
+  "duration_seconds": 14.0,
+  "description": "Proximity test from approximately 10\u201315cm from the phone, addressing the center/screen.",
+  "transcript": "What I'm going to do now I've shifted back to the center and I'm going to just a couple of experiments in proximity, a proximity effect. So currently at estimate, I'm about, as I say, 10 to maybe 15 centimeters from the phone.",
+  "case_on": false,
+  "mount": null
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "06_proximity_3cm.wav",
+  "segment_number": 6,
+  "title": "Proximity Test \u2014 ~3cm",
+  "address_pattern": "Center/LCD screen",
+  "distance_cm": 3,
+  "start_time": 218.0,
+  "end_time": 225.0,
+  "duration_seconds": 7.0,
+  "description": "Speaking right about 3cm away from the screen \u2014 very close proximity test.",
+  "transcript": "And now I'm literally speaking right about 3cm away from the screen. Now I'm literally almost touching the screen.",
+  "case_on": false,
+  "mount": null
+}

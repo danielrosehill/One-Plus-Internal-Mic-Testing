@@ -1,0 +1,14 @@
+{
+  "filename": "17_case_description.wav",
+  "segment_number": 17,
+  "title": "Describing the Phone Case",
+  "address_pattern": null,
+  "distance_cm": null,
+  "start_time": 381.0,
+  "end_time": 421.0,
+  "duration_seconds": 40.0,
+  "description": "Describing the phone case before testing its impact on recording quality. Black hard shell case with cutouts for top and bottom microphones.",
+  "transcript": "And final test is I think this would be an important one for most of us use our androids in cases without thinking about the difference it might make to the recording quality. I'm looking at the case that I have just to describe it. It's a black hard shell type case that just pops over the handset and it has a little cutout for the microphone at the top and the bottom. So it's designed with that in mind. Not all phone cases have those little gaps, but nevertheless, well, we'll see if it makes any appreciable difference whatsoever. Maybe it won't. So I'm going to just pop the phone into the case now.",
+  "case_on": false,
+  "mount": null
+}

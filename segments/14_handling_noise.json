@@ -1,0 +1,14 @@
+{
+  "filename": "14_handling_noise.wav",
+  "segment_number": 14,
+  "title": "Handling Noise Test",
+  "address_pattern": null,
+  "distance_cm": null,
+  "start_time": 290.0,
+  "end_time": 314.0,
+  "duration_seconds": 24.0,
+  "description": "Handling noise test \u2014 moving the phone around, putting it in pocket and back, to test microphone sensitivity to handling noise.",
+  "transcript": "Okay, part two, handling noise rejection. So what I'm going to do for the next 10 seconds is just broadly handle the phone. I'm going to be just moving it around. I'll put in my pocket and back, in fact, so we can see how sensitive the microphones are to handling noise.",
+  "case_on": false,
+  "mount": null
+}

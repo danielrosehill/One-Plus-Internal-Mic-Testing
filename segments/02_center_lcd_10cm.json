@@ -1,0 +1,14 @@
+{
+  "filename": "02_center_lcd_10cm.wav",
+  "segment_number": 2,
+  "title": "Center/LCD Screen Address (~10cm)",
+  "address_pattern": "Center/LCD screen",
+  "distance_cm": 10,
+  "start_time": 145.0,
+  "end_time": 168.0,
+  "duration_seconds": 23.0,
+  "description": "Speaking into the center of the phone from about 10cm, targeting the center point of the LCD screen. Discusses how this address pattern might actually be better than addressing the bottom mic directly.",
+  "transcript": "So this is. I'm actually speaking into the center of the phone from about 10 centimeters. I'm speaking literally as if I'm targeting the center point of the LCD screen. I assumed always that this didn't make any sense, but learning a bit about the microphone placement here, it might actually be a better pickup pattern or address pattern technically than using what I assumed was the best.",
+  "case_on": false,
+  "mount": null
+}

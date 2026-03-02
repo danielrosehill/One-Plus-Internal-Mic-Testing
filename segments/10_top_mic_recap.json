@@ -1,0 +1,14 @@
+{
+  "filename": "10_top_mic_recap.wav",
+  "segment_number": 10,
+  "title": "Address Pattern 3 Recap \u2014 Top Mic",
+  "address_pattern": "Top microphone (secondary)",
+  "distance_cm": null,
+  "start_time": 241.0,
+  "end_time": 245.0,
+  "duration_seconds": 4.0,
+  "description": "Brief recap of address pattern three \u2014 speaking to the top of the phone.",
+  "transcript": "And finally address pattern three, speaking to the top of the phone.",
+  "case_on": false,
+  "mount": null
+}

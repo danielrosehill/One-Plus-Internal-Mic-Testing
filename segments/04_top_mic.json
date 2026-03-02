@@ -1,0 +1,14 @@
+{
+  "filename": "04_top_mic.wav",
+  "segment_number": 4,
+  "title": "Top Microphone (Secondary)",
+  "address_pattern": "Top microphone (secondary)",
+  "distance_cm": 10,
+  "start_time": 193.0,
+  "end_time": 204.0,
+  "duration_seconds": 11.0,
+  "description": "Addressing the top of the device where the secondary microphone is located.",
+  "transcript": "And what I'm going to do now is flip over to the top. And now I'm addressing the top of the device where the secondary microphone is located.",
+  "case_on": false,
+  "mount": null
+}

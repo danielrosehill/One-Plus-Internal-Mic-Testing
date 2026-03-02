@@ -1,0 +1,14 @@
+{
+  "filename": "01_intro.wav",
+  "segment_number": 1,
+  "title": "Introduction & Recording Setup",
+  "address_pattern": null,
+  "distance_cm": null,
+  "start_time": 0.0,
+  "end_time": 145.0,
+  "duration_seconds": 145.0,
+  "description": "Preamble describing the recording setup, purpose of the test, device info (OnePlus Nord 3 5G), recording app (ASR), and parameters (48kHz WAV stereo, all digital processing disabled).",
+  "transcript": "The purpose of this audio file and video is to demonstrate some differences in sound quality and recording quality using a Android smartphone with a somewhat decent internal microphone and providing some voice samples as to how different pickup patterns are going to affect the quality the recording. So before going further, let me just describe the recording parameters that are currently being used for this file and it's RAW format. These might be processed down in in later processing, but this is the original audio recording in wav and recording at 48khz as the as the bit rate audio channel is stereo and using for this particular recording ASR which is my favorite Android recording app and all the digital controls have been disabled for noise cancellation, auto gain control, anything like that. So this is attempting to really just get it at a pretty raw condition. The reason that I'm doing this is I've started an AI podcast AI generated podcast in which I send in prompts which make it into the podcast through a production pipeline and initially intended mostly to be recording the prompts in a proper recording environment with the desktop microphone and all the rest of the gear, but ended up over time recording it predominantly on my phone. Initially I built a web app to do this directly, but then I found that much better results were achieved using a standalone recording app and then uploading the file into the production process that way. It also means that it's not online dependent. The results have been fairly good sometimes and it's made me think that the question of how to actually use a smartphone for as a microphone is rarely discussed. We usually just think of these as not good sources for audio quality, but as the microphone quality put into them gets better, I think it's worth just as you test a microphone testing this phone. So to describe firstly the current recording setup, what I'm going to demonstrate is the difference in quality through a few specific address patterns in type. Firstly in address type.",
+  "case_on": false,
+  "mount": null
+}

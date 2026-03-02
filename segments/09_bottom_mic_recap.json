@@ -1,0 +1,14 @@
+{
+  "filename": "09_bottom_mic_recap.wav",
+  "segment_number": 9,
+  "title": "Address Pattern 2 Recap \u2014 Bottom Mic",
+  "address_pattern": "Bottom microphone (primary, near USB-C)",
+  "distance_cm": null,
+  "start_time": 237.0,
+  "end_time": 241.0,
+  "duration_seconds": 4.0,
+  "description": "Brief recap of address pattern two \u2014 speaking directly to the bottom of the phone.",
+  "transcript": "And now I'm moving back to address pattern two, speaking directly to the bottom of the phone.",
+  "case_on": false,
+  "mount": null
+}

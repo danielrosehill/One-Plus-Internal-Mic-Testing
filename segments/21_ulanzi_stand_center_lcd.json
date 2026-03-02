@@ -1,0 +1,14 @@
+{
+  "filename": "21_ulanzi_stand_center_lcd.wav",
+  "segment_number": 21,
+  "title": "On Ulanzi Stand \u2014 Center/LCD Address",
+  "address_pattern": "Center/LCD screen",
+  "distance_cm": 10,
+  "start_time": 475.0,
+  "end_time": 489.0,
+  "duration_seconds": 14.0,
+  "description": "Phone on Ulanzi stand \u2014 addressing the center/LCD screen. Notes that waveforms in ASR look significantly better when addressing the screen.",
+  "transcript": "Now I'm back to the center address pattern addressing literally the LCD screen. And I'm just looking at the waveforms in ASR. They look significantly better when I'm addressing the screen which has already flipped my understanding of the, of this on its head.",
+  "case_on": true,
+  "mount": "Ulanzi selfie stick/stand (~2m full extension)"
+}

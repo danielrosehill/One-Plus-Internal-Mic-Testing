@@ -1,0 +1,14 @@
+{
+  "filename": "12_phone_to_ear_downward.wav",
+  "segment_number": 12,
+  "title": "Phone to Ear \u2014 Voice Directed Downward",
+  "address_pattern": "Phone to ear \u2014 voice directed downward",
+  "distance_cm": null,
+  "start_time": 278.0,
+  "end_time": 284.0,
+  "duration_seconds": 6.0,
+  "description": "Phone held to ear with voice specifically directed downward toward the ground.",
+  "transcript": "Now I'm speaking very specifically downwards towards the ground. Was the phone still held to my ear?",
+  "case_on": false,
+  "mount": null
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "18_case_center_lcd.wav",
+  "segment_number": 18,
+  "title": "With Case \u2014 Center/LCD Address (Pattern 1)",
+  "address_pattern": "Center/LCD screen",
+  "distance_cm": 10,
+  "start_time": 421.0,
+  "end_time": 432.0,
+  "duration_seconds": 11.0,
+  "description": "With case on \u2014 repeating address pattern 1, speaking towards the center of the LCD screen.",
+  "transcript": "Okay, the OnePlus is cased. Now when you're going back to speaking, pick up pattern number one. Speaking towards the center of the LCD screen, pick up pattern number two.",
+  "case_on": true,
+  "mount": null
+}

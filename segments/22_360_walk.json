@@ -1,0 +1,14 @@
+{
+  "filename": "22_360_walk.wav",
+  "segment_number": 22,
+  "title": "360\u00b0 Walk Around the Phone",
+  "address_pattern": "360\u00b0 walk (varying angles)",
+  "distance_cm": null,
+  "start_time": 489.0,
+  "end_time": 522.0,
+  "duration_seconds": 33.0,
+  "description": "Walking a full 360\u00b0 around the phone while recording in stereo. Notes positions at 180\u00b0, 270\u00b0 (90\u00b0 left), and return to starting point.",
+  "transcript": "What I'm actually going to do now is as we're recording in stereo, I'm going to Walk360 from where I am now and come all the way back to this starting point. Starting three, two, one. Now I'm just going to keep talking about nothing in particular, but I will note my position. I'm now 180 degrees off axis the way to the back of the phone. I'm now 270 degrees off axis. In other words, I'm 90 degrees to the left. And now I'm slowly coming back to my starting point here, directing my voice at the screen.",
+  "case_on": true,
+  "mount": "Ulanzi selfie stick/stand (~2m full extension)"
+}

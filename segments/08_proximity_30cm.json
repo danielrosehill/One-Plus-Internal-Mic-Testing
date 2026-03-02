@@ -1,0 +1,14 @@
+{
+  "filename": "08_proximity_30cm.wav",
+  "segment_number": 8,
+  "title": "Proximity Test \u2014 ~30cm Comfortable Distance",
+  "address_pattern": "Center/LCD screen",
+  "distance_cm": 30,
+  "start_time": 227.0,
+  "end_time": 237.0,
+  "duration_seconds": 10.0,
+  "description": "Speaking from a comfortable recording distance of about 30cm from the screen. Describes this as 'address pattern one'.",
+  "transcript": "Now I'm at a more comfortable recording distance. I've about 30cm between myself and the screen. And this is what we can call address pattern one, addressing the screen.",
+  "case_on": false,
+  "mount": null
+}

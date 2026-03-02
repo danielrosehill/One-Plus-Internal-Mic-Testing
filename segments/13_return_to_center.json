@@ -1,0 +1,14 @@
+{
+  "filename": "13_return_to_center.wav",
+  "segment_number": 13,
+  "title": "Return to Center Address",
+  "address_pattern": "Center/LCD screen",
+  "distance_cm": 10,
+  "start_time": 284.0,
+  "end_time": 290.0,
+  "duration_seconds": 6.0,
+  "description": "Returning to handheld center address after the phone-to-ear tests.",
+  "transcript": "And now we're back to the me not holding the phone to my ear and addressing the center of the microphone.",
+  "case_on": false,
+  "mount": null
+}
